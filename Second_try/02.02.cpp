@@ -88,7 +88,7 @@ int main()
 		cout << (*A1) << " / " << (*B1) << " = " << (*A1) / (*B1);
 		break;
 	default:
-		cout << "ERROR";
+		cout << "ERROR"; // Тут есть ERROR
 		break;
 	}
 
