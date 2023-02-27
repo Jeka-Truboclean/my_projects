@@ -1,0 +1,5 @@
+﻿  Source9.cpp
+C:\Users\Admin\Desktop\P22\P22\Source9.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : C:\Users\Admin\Desktop\P22\x64\Debug\P22.exe not found or not built by the last incremental link; performing full link
+Source9.obj : error LNK2005: main already defined in Source8.obj
+C:\Users\Admin\Desktop\P22\x64\Debug\P22.exe : fatal error LNK1169: one or more multiply defined symbols found
