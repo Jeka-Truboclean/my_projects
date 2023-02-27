@@ -88,7 +88,7 @@ int main()
 	quickSort(arr, size - 1);
 	for (int i = 0; i < size; i++)
 	{
-		cout << arr[i] << " "; //pidfjgbnpoz
+		cout << arr[i] << " "; 
 	}
 
 	return 0;
